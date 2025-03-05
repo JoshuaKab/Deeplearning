@@ -1,3 +1,7 @@
-# Fashion_recognition
+##  Deep learning 
 
-Trains a model to recognize fashion wear using Fashion MNIST dataset. Then load an external image and uses the train model to predict the label fashion
+### Image classification with CNN Model
+
+
+CNNs are a cornerstone of modern AI, excelling in tasks like image classification, object detection, and facial recognition. This article explores CNN basics, practical applications, and how to implement them using popular datasets and frameworks, providing a comprehensive guide to mastering this essential deep learning technology
+
